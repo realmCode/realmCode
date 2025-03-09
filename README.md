@@ -1,6 +1,3 @@
-![Background](https://realmcode.github.io/publicassets/background.jpg)
-
-
 <div align="center">
   <img height="200" src="https://realmcode.github.io/publicassets/kingsrelam_circle.png"  />
 </div>
