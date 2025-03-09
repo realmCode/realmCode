@@ -1,4 +1,4 @@
-![Background Banner](https://realmcode.github.io/publicassets/background.jpg)
+![Background](https://realmcode.github.io/publicassets/background.jpg)
 
 
 <div align="center">
